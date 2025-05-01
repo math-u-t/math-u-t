@@ -1,31 +1,33 @@
-# こんにちは！math-u-tです。
+# Hello! I'm math-u-t 👋
 
-「**math-u-t**」という名前には、私の名前にちなんだ意味があります。  
-具体的には、数学に関する興味とユニークな要素を組み合わせて、自己表現したいという思いからこの名前を選びました。  
-プログラミングの世界では、名前の由来も重要な意味を持つことがあり、自分自身を表すシンボルのように感じています。
+The name "**math-u-t**" has a meaning related to my name ✨
+Specifically, I chose this name because I wanted to express myself by combining my interest in mathematics with unique elements 🎨
+In the world of programming, the origin of a name can also have an important meaning, and I feel like it's a symbol that represents me 💡
 
-## プログラミングを始めたきっかけは？
+## What made you start programming? 🤔
 
-最初に触れたのは「**Scratch**」でした。  
-Scratchはビジュアルプログラミング言語で、画像編集エディターや簡単なシステムがすぐに作れる仕組みが整っており、初心者でも楽しみながらプログラムの基礎を学ぶことができます。  
-そのため、今でもScratchをよく使っており、プログラムを書く楽しさを実感できる場として、非常に大切な存在です。
+The first thing I learned was "**Scratch**"🐣
+Scratch is a visual programming language that allows you to quickly create image editing editors and simple systems, so even beginners can learn the basics of programming while having fun🎮
+For that reason, I still use Scratch a lot, and it is very important to me as a place where I can experience the fun of writing programs❤️
 
-## これまでのプログラミング経歴
+## Programming history so far🛤️
 
-1. **Scratch** → プログラミングの基礎を学ぶ
-2. **Python** → より複雑なロジックやアルゴリズムを学ぶ
-3. **HTML & CSS & JavaScript** → ウェブ開発に挑戦
-4. **Google Apps Script (GAS)** → ウェブアプリケーション作成に挑戦
-5. 現在は、**GAS、HTML、CSS、JavaScript** を組み合わせて、より高度なウェブアプリを開発しています。
+1. **Scratch** → Learn the basics of programming📚
+2. **Python** → Learn more complex logic and algorithms🤖
+3. **HTML & CSS & JavaScript** → Try web development🌍
+4. **Google Apps Script (GAS)** → Try creating web applications💻
+5. Currently, I am developing more advanced web apps by combining **GAS, HTML, CSS, and JavaScript**🚀
 
-## 得意なこと
+## What I am good at💪
 
-私が得意とするプログラミング言語は **GAS** です。  
-GASは特に自分にとって長い時間をかけて学んだ言語であり、日々の開発でよく使っています。  
-自信を持って得意だと言えるので、簡単なスクリプト作成やGoogleサービスとの連携を行う際に非常に便利で効率的に開発が進められます。
+The programming language I am good at is **GAS**⚡
+GAS is a language that I have spent a long time learning and I use it a lot in my daily development🛠️
+I can confidently say that I am good at it, so it is very convenient and efficient when creating simple scripts or integrating with Google services🚀
 
-## 将来の目標
+## Future goals🌱
 
-将来的には、**プログラミング関連の仕事**に就きたいと考えています。  
-もっと具体的には、自分の**会社を立ち上げ**て、技術とアイデアを活かし、社会に貢献できる事業を展開していきたいと思っています。  
-プログラミングの力を使って、より良い社会を作るために自分の能力を最大限に発揮したいと考えています。
+In the future, I would like to get a **programming-related job**💼
+More specifically, I would like to start my own **company** and develop a business that can contribute to society by utilizing my skills and ideas🏢
+I would like to use the power of programming to maximize my abilities to create a better society🌍
+
+(By Google Trancerate)

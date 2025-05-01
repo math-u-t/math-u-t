@@ -42,4 +42,4 @@ More specifically, I would like to start my own **company** and develop a busine
 
 I would like to use the power of programming to maximize my abilities to create a better society🌍
 
-(By Google Trancerate)
+(By Google Trancerate + ChatGPT)

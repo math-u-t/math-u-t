@@ -1,45 +1,29 @@
-# Hello! I'm "math-u-t" 👋
+# Hello! I'm **math-u-t** 👋
 
-The name "**math-u-t**" has a meaning related to my name ✨
+I love math, and I chose this name to express my identity and passion ✨
 
-Specifically, I chose this name because I wanted to express myself by combining my interest in mathematics with unique elements 🎨
+## 🌟 How I Started Programming
 
-In the world of programming, the origin of a name can also have an important meaning, and I feel like it's a symbol that represents me 💡
+I began with **Scratch** 🐣  
+It was fun and intuitive, helping me enjoy learning programming from the start.  
+Even now, it's an important tool for me ❤️
 
-## What made you start programming? 🤔
+## 🛤️ My Programming Journey
 
-The first thing I learned was "**Scratch**"🐣
+1. **Scratch** – Learned the basics of programming  
+2. **Python** – Studied logic and algorithms  
+3. **HTML / CSS / JavaScript** – Stepped into web development  
+4. **Google Apps Script (GAS)** – Started building web apps  
+5. **Now** – Combining these to develop more advanced applications 🚀
 
-Scratch is a visual programming language that allows you to quickly create image editing editors and simple systems, so even beginners can learn the basics of programming while having fun🎮
+## 💪 What I'm Good At
 
-For that reason, I still use Scratch a lot, and it is very important to me as a place where I can experience the fun of writing programs❤️
+I'm most confident in **Google Apps Script (GAS)**  
+I use it frequently to create efficient tools and integrate with Google services ⚡
 
-## Programming history so far🛤️
+## 🌱 Future Goals
 
-1. **Scratch** → Learn the basics of programming📚
-   
-2. **Python** → Learn more complex logic and algorithms🤖
-   
-3. **HTML & CSS & JavaScript** → Try web development🌍
-   
-4. **Google Apps Script (GAS)** → Try creating web applications💻
-   
-5. Currently, I am developing more advanced web apps by combining **GAS, HTML, CSS, and JavaScript**🚀
+I aim to **start my own company**  
+I want to use my skills and ideas to build something meaningful that contributes to society 🌍
 
-## What I am good at💪
-
-The programming language I am good at is **GAS**⚡
-
-GAS is a language that I have spent a long time learning and I use it a lot in my daily development🛠️
-
-I can confidently say that I am good at it, so it is very convenient and efficient when creating simple scripts or integrating with Google services🚀
-
-## Future goals🌱
-
-In the future, I would like to get a **programming-related job**💼
-
-More specifically, I would like to start my own **company** and develop a business that can contribute to society by utilizing my skills and ideas🏢
-
-I would like to use the power of programming to maximize my abilities to create a better society🌍
-
-(By Google Trancerate + ChatGPT)
+(By ChatGPT)

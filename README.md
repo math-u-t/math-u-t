@@ -1,4 +1,4 @@
-# Hello! I'm **math-u-t** 👋
+# Hello! I'm **"math-u-t"** 👋
 
 I love math, and I chose this name to express my identity and passion ✨
 

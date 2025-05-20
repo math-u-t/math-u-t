@@ -27,4 +27,3 @@ I aim to **start my own company**
 I want to use my skills and ideas to build something meaningful that contributes to society 🌍
 
 (By ChatGPT)
-<img src="https://script.google.com/macros/s/AKfycbzrnj2uYqcGBufYirX5x64rgvnYR_15yTMbmK4R_tIurqy8XymGGjrAzwbD9SxrJBXHaQ/exec?tag=github&id=github" width="1" height="1">

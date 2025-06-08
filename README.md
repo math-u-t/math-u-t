@@ -15,6 +15,7 @@ Even now, it's an important tool for me ❤️
 3. **HTML / CSS / JavaScript** – Stepped into web development  
 4. **Google Apps Script (GAS)** – Started building web apps  
 5. **Now** – Combining these to develop more advanced applications 🚀
+6. --> This is ... firebase!!
 
 ## 💪 What I'm Good At
 

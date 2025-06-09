@@ -1,14 +1,14 @@
-# Hello! I'm **"math-u-t"** 👋
+# Hello! I'm **"math-u-t"** 👋 #
 
 I love math, and I chose this name to express my identity and passion ✨
 
-## 🌟 How I Started Programming
+## 🌟 How I Started Programming ##
 
 I began with **Scratch** 🐣  
 It was fun and intuitive, helping me enjoy learning programming from the start.  
 Even now, it's an important tool for me ❤️
 
-## 🛤️ My Programming Journey
+## 🛤️ My Programming Journey ##
 
 1. **Scratch** – Learned the basics of programming  
 2. **Python** – Studied logic and algorithms  
@@ -17,12 +17,12 @@ Even now, it's an important tool for me ❤️
 5. **Now** – Combining these to develop more advanced applications 🚀
 6. --> This is ... firebase!!
 
-## 💪 What I'm Good At
+## 💪 What I'm Good At ##
 
 I'm most confident in **Google Apps Script (GAS)**  
 I use it frequently to create efficient tools and integrate with Google services ⚡
 
-## 🌱 Future Goals
+## 🌱 Future Goals ##
 
 I aim to **start my own company**  
 I want to use my skills and ideas to build something meaningful that contributes to society 🌍

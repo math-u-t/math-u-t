@@ -29,6 +29,7 @@ I want to use my skills and ideas to build something meaningful that contributes
 
 ---
 under the line means very useful site
-(download the repository from URL)[https://minhaskamal.github.io/DownGit/#/home]
+
+- [download the repository from URL](https://minhaskamal.github.io/DownGit/#/home)
 
 (By ChatGPT)

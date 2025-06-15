@@ -1,35 +1,19 @@
-# Hello! I'm **"math-u-t"** 👋 #
+# 👋 Hi, I'm **math-u-t** #
 
-I love math, and I chose this name to express my identity and passion ✨
+I love math and programming!
 
-## 🌟 How I Started Programming ##
+## 🚀 My Journey ##
 
-I began with **Scratch** 🐣  
-It was fun and intuitive, helping me enjoy learning programming from the start.  
-Even now, it's an important tool for me ❤️
+* 🐣 **Scratch** – First step into coding
+* 🐍 **Python** – Learned logic & algorithms
+* 🌐 **HTML/CSS/JS** – Web development
+* ⚙️ **Google Apps Script** – Built tools & web apps
+* 🔥 **Now** – Exploring Firebase!
 
-## 🛤️ My Programming Journey ##
+## 💡 Strength ##
 
-1. **Scratch** – Learned the basics of programming  
-2. **Python** – Studied logic and algorithms  
-3. **HTML / CSS / JavaScript** – Stepped into web development  
-4. **Google Apps Script (GAS)** – Started building web apps  
-5. **Now** – Combining these to develop more advanced applications 🚀
-6. --> This is ... firebase!!
+I'm confident in **Google Apps Script** for building efficient tools with Google services.
 
-## 💪 What I'm Good At ##
+## 🎯 Goal ##
 
-I'm most confident in **Google Apps Script (GAS)**  
-I use it frequently to create efficient tools and integrate with Google services ⚡
-
-## 🌱 Future Goals ##
-
-I aim to **start my own company**
-I want to use my skills and ideas to build something meaningful that contributes to society 🌍
-
----
-under the line means very useful site
-
-- [download the repository from URL](https://minhaskamal.github.io/DownGit/#/home)
-
-(By ChatGPT)
+Start my own company and create something meaningful 🌍

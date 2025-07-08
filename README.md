@@ -2,6 +2,8 @@
 
 I love math and programming!
 
+If you have any questions, please let me know [here](https://github.com/sphylics/sphylics/issues/1).
+
 ## 🚀 My Journey ##
 
 * 🐣 **Scratch** – First step into coding
@@ -21,6 +23,8 @@ Start my own company and create something meaningful 🌍
 ## 📈 Status ##
 
 This is my status.
+
+I'll do my best.
 
 <picture>
   <source

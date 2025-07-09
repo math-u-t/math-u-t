@@ -1,39 +1,57 @@
-# 👋 Hi, I'm **sphylics** #
+# 👋 Hi, I'm **sphylics**  
 
-I love math and programming!
+I’m a passionate **math & programming enthusiast** who loves solving problems and building meaningful tools.  
 
-If you have any questions, please let me know [here](https://github.com/sphylics/sphylics/issues/1).
+Open source is one of my favorite things to look at.
 
-## 🚀 My Journey ##
+If you have any questions or collaboration ideas, feel free to [open an issue here](https://github.com/sphylics/sphylics/issues/1).  
 
-* 🐣 **Scratch** – First step into coding
-* 🐍 **Python** – Learned logic & algorithms
-* 🌐 **HTML/CSS/JS** – Web development
-* ⚙️ **Google Apps Script** – Built tools & web apps
-* 🔥 **Now** – Exploring Firebase!
+## 🧠 What I Do  
 
-## 💡 Strength ##
+I’m comfortable working across a variety of platforms and technologies. Some of my favorite tools is here.
 
-I'm confident in **Google Apps Script** for building efficient tools with Google services.
+**We were assisted in learning these skills by the AIs [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), and [Copilot](copilot.microsoft.com/).**
 
-## 🎯 Goal ##
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,css,discord,firebase,gcp,github,gmail,instagram,html,ai,js,latex,linux,md,mint,notion,powershell,py,tailwind,threejs,twitter,vscode&perline=9" alt="My Skills">
+</p>
 
-Start my own company and create something meaningful 🌍
+## 🔧 My Strength  
 
-## 📈 Status ##
+🧩 I specialize in `Google Apps Script` to build efficient tools that extend Google services (Gmail, Sheets, Calendar, etc.).  
 
-This is my status.
+🧮 Also strong in:
 
-I'll do my best.
+- Automations & integrations
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sphylics&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sphylics&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sphylics&show_icons=true" />
-</picture>
+- Web development (`HTML`/`CSS`/`JS`)
+
+- Applied math & physics  
+
+## 🎯 My Goal  
+
+I want to **start my own company** and create something **meaningful and impactful** for the world. 🌍  
+
+## 📊 GitHub Stats  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=sphylics&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=sphylics&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
+  </picture>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sphylics&layout=compact&langs_count=8&card_width=320">
+  </picture>
+</a>
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=sphylics">
+  </a>
+</p>

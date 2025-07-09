@@ -1,10 +1,10 @@
-# 👋 Hi, I'm **sphylics**  
+# 👋 Hi, I'm **math-u-t**  
 
 I’m a passionate **math & programming enthusiast** who loves solving problems and building meaningful tools.  
 
 Open source is one of my favorite things to look at.
 
-If you have any questions or collaboration ideas, feel free to [open an issue here](https://github.com/sphylics/sphylics/issues/1).  
+If you have any questions or collaboration ideas, feel free to [open an issue here](https://github.com/math-u-t/math-u-t/issues/1).  
 
 ## 🧠 What I Do  
 
@@ -36,15 +36,15 @@ I want to **start my own company** and create something **meaningful and impactf
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=sphylics&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=sphylics&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=math-u-t&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=math-u-t&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=math-u-t&show_icons=true">
   </picture>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sphylics&layout=compact&langs_count=8&card_width=320">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=math-u-t&layout=compact&langs_count=8&card_width=320">
   </picture>
 </a>
 
@@ -52,6 +52,6 @@ I want to **start my own company** and create something **meaningful and impactf
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=sphylics">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=math-u-t">
   </a>
 </p>

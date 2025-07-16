@@ -35,17 +35,10 @@ I want to **start my own company** and create something **meaningful and impactf
 ## 📊 GitHub Stats  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=math-u-t&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=math-u-t&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=math-u-t&show_icons=true">
-  </picture>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=math-u-t&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=math-u-t&layout=compact&langs_count=8&card_width=320">
-  </picture>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-u-t&layout=compact&theme=buefy&hide_border=true" />
 </a>
 
 ## 🏆 GitHub Trophies  

@@ -1,20 +1,7 @@
 # 👋 Hi, I'm **math-u-t**  
 
-I’m a passionate **math & programming enthusiast** who loves solving problems and building meaningful tools.  
+[My web site](https://math-u-t.github.io/)
 
-If you have any questions or collaboration ideas, feel free to [open an issue here](https://github.com/math-u-t/math-u-t/issues/1).  
-
-## 🧠 What I Do  
-
-Some of my favorite tools is here.
-
-**We were assisted in learning these skills by the AIs [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), and [Copilot](copilot.microsoft.com/).**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,threejs,tailwind,firebase,gcp,arduino,vscode,linux,mint,powershell,github,notion,md,latex,ai,gmail,discord,twitter,instagram&perline=9" alt="My Skills">
-</p>
-
-## 📊 GitHub Stats 
 It's just statistics.(excuse)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -1,6 +1,4 @@
-# 👋 Hi, I'm **math-u-t**  
-
-[My web site](https://math-u-t.github.io/)
+# Hi, I'm [**math-u-t**](https://math-u-t.github.io/)
 
 It's just statistics.(excuse)
 
